@@ -1,9 +1,0 @@
-﻿  Window.cpp
-C:\Users\PULAK\source\repos\Cpp\WINGUIlib\Window.h(26,25): warning C4244: '=': conversion from 'WPARAM' to 'int', possible loss of data
-  (compiling source file 'Window.cpp')
-  
-C:\Users\PULAK\source\repos\Cpp\WINGUIlib\Window.h(27,25): warning C4244: '=': conversion from 'LPARAM' to 'int', possible loss of data
-  (compiling source file 'Window.cpp')
-  
-C:\Users\PULAK\source\repos\Cpp\WINGUIlib\Window.cpp(112,94): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
-  WINGUIlib.vcxproj -> C:\Users\PULAK\source\repos\Cpp\WINGUIlib\x64\Debug\WINGUIlib.lib
