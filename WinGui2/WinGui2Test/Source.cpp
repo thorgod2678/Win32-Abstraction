@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "C:\Users\PULAK\source\repos\Cpp\WinGui2\WinGui2Lib\Window.h"  // Your window management header
+#include "WinGui2\WinGui2Lib\Window.h"  // Your window management header
 void myWindowHandler(UINT msg, UINT wp, UINT lp,Window* win) {
     if (msg == WM_COMMAND) {
         if (wp == 1) {
